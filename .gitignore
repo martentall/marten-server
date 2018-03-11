@@ -1,0 +1,6 @@
+# IDEs and editors
+/.idea
+*.iml
+
+/node_modules
+
